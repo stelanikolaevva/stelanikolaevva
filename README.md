@@ -1,75 +1,47 @@
-## Hi there 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=Hi%20👋,%20I'm%20Stela&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Backend%20Software%20Engineer&descAlignY=62&descSize=20"/>
 
-<!--
-**stelanikolaevva/stelanikolaevva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">Hi, I'm Stela 👋</h1>
-
-<h3 align="center">Backend Software Engineer • Java & Spring Boot • Microservices</h3>
+<h3 align="center">Java & Spring Boot Developer</h3>
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/stela-nikolaeva/]">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:stela.nikolaeva13@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=550&lines=Building+scalable+backend+systems;Spring+Boot+%7C+Microservices+%7C+REST+APIs;Open+to+remote+opportunities" alt="Typing SVG" />
 </p>
 
 ---
 
-### About Me
+### 🚀 About Me
 
-Backend Software Engineer with nearly five years of experience building Spring Boot microservices for enterprise web applications. I started as an intern at Dell Technologies and grew into a full backend role, working across Java, REST APIs, PostgreSQL, and MongoDB, with RabbitMQ and Redis for messaging and caching. Comfortable in a full enterprise toolchain — Kubernetes, SonarQube, Splunk, Dynatrace, Liquibase, and feature-flag systems like Unleash.
-
-I hold a degree in Computer Software Engineering from the Technical University of Varna, and I'm currently open to remote backend engineering opportunities.
-
----
-
-### 🛠️ Tech Stack
-
-**Languages & Frameworks**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-
-**Data & Messaging**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-
-**Infra & Tooling**
-
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
+- 💼 Backend Software Engineer with **~5 years of experience**, most recently at **Dell Technologies**
+- 🏗️ Started as an intern and grew into building **Spring Boot microservices** for enterprise-scale applications
+- 🧠 Core stack: **Java, Spring Boot, PostgreSQL, MongoDB, RabbitMQ, Redis**
+- ⚙️ Comfortable across the full enterprise toolchain — **Kubernetes, SonarQube, Splunk, Dynatrace, Liquibase, Unleash**
+- 🎓 Computer Software Engineering graduate, Technical University of Varna
+- 🌍 Currently open to **remote backend engineering roles**
 
 ---
 
-### 🚀 Projects
-
-
----
-
-### 📈 GitHub Stats
+### 🤝 Connect
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stelanikolaevva&show_icons=true&theme=default" alt="GitHub Stats"/>
+  <a href="https://github.com/stelanikolaevva"><img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/stela-nikolaeva/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:stela.nikolaeva13@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
-<p align="center"><i>Open to remote backend engineering roles — let's connect!</i></p>
+### 💻 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,mongodb,redis,rabbitmq,docker,kubernetes,git,github,idea" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=stelanikolaevva&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=stelanikolaevva&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
